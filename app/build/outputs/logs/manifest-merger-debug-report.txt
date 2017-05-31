@@ -1,0 +1,125 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c8e5517347061c89a3175aaf30bb2fa7b8324179\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\4a47b9b3d8fe44ba376cf230011c9f59450b1843\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c17d9295967cb2cdc25d7e7af75dca239a9b5866\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\d9cf8dfc96ff00c19610510f526780c9e1c763a2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\1dc0653cfac2ccb3f70a7687a3603a9fd6d05b60\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\e179293f0eba2d022315ae604a1dc53ffbb0d8b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\68b437b9a2688fe260b9addac71c941064714d3c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c06c83d33aeaae87598842b6289da8b2f0b9e0e7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\84b134a2a1268cf9eb28f5dc0b47be5bae534bcd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\17c87d1c101ac7a31c79f678d6b1afc76d7b2d54\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\922fbbee51881cb79f1239654761b6decc39ca57\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.MenuActivity
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:12:9-15:59
+	android:label
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.myapplication.MainActivity
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.myapplication.CountrygridActivity
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:23:9-57
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:23:19-54
+activity#com.example.myapplication.CustomGrid
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:24:9-48
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:24:19-45
+activity#com.example.myapplication.CountryActivity
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:25:9-151
+	android:screenOrientation
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:25:51-87
+	android:configChanges
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:25:88-138
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:25:19-50
+activity#com.example.myapplication.SpinnerActivity
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:26:19-50
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:28:5-97
+	android:name
+		ADDED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml:28:22-78
+uses-sdk
+INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c8e5517347061c89a3175aaf30bb2fa7b8324179\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\4a47b9b3d8fe44ba376cf230011c9f59450b1843\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c17d9295967cb2cdc25d7e7af75dca239a9b5866\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\d9cf8dfc96ff00c19610510f526780c9e1c763a2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\99e7f66b055616c223662dac7c8354797578437d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\1dc0653cfac2ccb3f70a7687a3603a9fd6d05b60\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\e179293f0eba2d022315ae604a1dc53ffbb0d8b3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\68b437b9a2688fe260b9addac71c941064714d3c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c06c83d33aeaae87598842b6289da8b2f0b9e0e7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\84b134a2a1268cf9eb28f5dc0b47be5bae534bcd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\17c87d1c101ac7a31c79f678d6b1afc76d7b2d54\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\922fbbee51881cb79f1239654761b6decc39ca57\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c8e5517347061c89a3175aaf30bb2fa7b8324179\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c8e5517347061c89a3175aaf30bb2fa7b8324179\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\4a47b9b3d8fe44ba376cf230011c9f59450b1843\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c17d9295967cb2cdc25d7e7af75dca239a9b5866\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\d9cf8dfc96ff00c19610510f526780c9e1c763a2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\99e7f66b055616c223662dac7c8354797578437d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\1dc0653cfac2ccb3f70a7687a3603a9fd6d05b60\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\e179293f0eba2d022315ae604a1dc53ffbb0d8b3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\68b437b9a2688fe260b9addac71c941064714d3c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c06c83d33aeaae87598842b6289da8b2f0b9e0e7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\84b134a2a1268cf9eb28f5dc0b47be5bae534bcd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\17c87d1c101ac7a31c79f678d6b1afc76d7b2d54\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\922fbbee51881cb79f1239654761b6decc39ca57\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c8e5517347061c89a3175aaf30bb2fa7b8324179\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\AKHIL JISHNU\.android\build-cache\c8e5517347061c89a3175aaf30bb2fa7b8324179\output\AndroidManifest.xml:26:9-47

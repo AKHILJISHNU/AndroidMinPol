@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\libs\jxl-2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74e55eae5ef7d003167a459965b99239ac6e6b02">
+        <dex dex="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\build\intermediates\transforms\dex\debug\folders\1000\2\jxl-2.6_e1a3890203707a8ae5ada396537ceb5692d1c12d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1aa3f5dfbaa84027307f066da0919ae9932ad6b5">
+        <dex dex="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_87abecd1dc903dd2cfd59ebf75089cedcee163c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50f4eb8dbfdbca95b7d4afb6e4ab711dcd94948b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\Users\AKHIL JISHNU\AndroidStudioProjects\MyApplication72\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_d765c266f3fd292d67bc12f0aca68c547acea1e3\classes.dex" />
+    </item>
+
+</items>

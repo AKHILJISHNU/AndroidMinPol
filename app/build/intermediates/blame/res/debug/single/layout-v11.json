@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\4a47b9b3d8fe44ba376cf230011c9f59450b1843\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\4a47b9b3d8fe44ba376cf230011c9f59450b1843\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\4a47b9b3d8fe44ba376cf230011c9f59450b1843\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\4a47b9b3d8fe44ba376cf230011c9f59450b1843\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\4a47b9b3d8fe44ba376cf230011c9f59450b1843\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\4a47b9b3d8fe44ba376cf230011c9f59450b1843\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]

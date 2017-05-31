@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\search.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\c8e5517347061c89a3175aaf30bb2fa7b8324179\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\.android\\build-cache\\c8e5517347061c89a3175aaf30bb2fa7b8324179\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_noun_802173_cc.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_noun_802173_cc.xml"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\nounbcc.xml",
+        "source": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\nounbcc.xml"
+    }
+]

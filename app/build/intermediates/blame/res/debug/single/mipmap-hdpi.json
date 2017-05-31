@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\minpol.png",
+        "source": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\src\\main\\res\\mipmap-hdpi\\minpol.png"
+    },
+    {
+        "merged": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\AKHIL JISHNU\\AndroidStudioProjects\\MyApplication72\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
